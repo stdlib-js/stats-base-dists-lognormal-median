@@ -1,0 +1,38 @@
+{
+  "name": "@stdlib/stats-base-dists-lognormal-median",
+  "version": "0.0.0",
+  "description": "Lognormal distribution median.",
+  "license": "Apache-2.0",
+  "main": "./bundle.js",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/stats-base-dists-lognormal-median.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdmath",
+    "statistics",
+    "stats",
+    "distribution",
+    "dist",
+    "gaussian",
+    "normal",
+    "continuous",
+    "median",
+    "location",
+    "center",
+    "percentile",
+    "logarithm",
+    "log",
+    "lognormal",
+    "univariate"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
