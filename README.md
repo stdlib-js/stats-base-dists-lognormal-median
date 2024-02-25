@@ -70,6 +70,11 @@ According to the definition, the _natural logarithm_ of a random variable from a
 ## Usage
 
 ```javascript
+import median from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-lognormal-median@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/stats-base-dists-lognormal-median/tags). For example,
+
+```javascript
 import median from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-lognormal-median@v0.2.1-deno/mod.js';
 ```
 
@@ -130,7 +135,7 @@ y = median( 0.0, -1.0 );
 
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
-import median from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-lognormal-median@v0.2.1-deno/mod.js';
+import median from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-lognormal-median@deno/mod.js';
 
 var sigma;
 var mu;
