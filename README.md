@@ -70,7 +70,7 @@ According to the definition, the _natural logarithm_ of a random variable from a
 ## Usage
 
 ```javascript
-import median from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-lognormal-median@esm/index.mjs';
+import median from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-lognormal-median@v0.3.0-esm/index.mjs';
 ```
 
 #### median( mu, sigma )
@@ -136,7 +136,7 @@ y = median( 0.0, -1.0 );
 
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@esm/index.mjs';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@esm/index.mjs';
-import median from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-lognormal-median@esm/index.mjs';
+import median from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-lognormal-median@v0.3.0-esm/index.mjs';
 
 var opts = {
     'dtype': 'float64'
